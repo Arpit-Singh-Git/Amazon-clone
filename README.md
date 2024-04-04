@@ -36,7 +36,3 @@ git clone https://github.com/your-username/amazon-replica.git
 ## Credits
 
 - Images used in the promotional carousel and product showcases are placeholders and not owned by the repository owner.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
